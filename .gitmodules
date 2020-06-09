@@ -1,0 +1,15 @@
+[submodule "lib/aryibi"]
+	path = lib/aryibi
+	url = https://github.com/alexdevteam/aryibi
+[submodule "lib/glfw"]
+	path = lib/glfw
+	url = https://github.com/glfw/glfw
+[submodule "lib/glad"]
+	path = lib/glad
+	url = https://github.com/kociap/glad
+[submodule "lib/imgui"]
+	path = lib/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "lib/stb"]
+	path = lib/stb
+	url = https://github.com/nothings/stb
